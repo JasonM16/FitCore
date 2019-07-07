@@ -1,0 +1,37 @@
+﻿new ExerciseSets
+                {
+                    ExerciseId = 53, // Bench Press
+                    Sets = new List<Set>
+                    {
+                        new Set
+                        {
+                            SetNumber = 1,
+                            Reps = 12,
+                            Weight = 95
+                        },
+                        new Set
+                        {
+                            SetNumber = 2,
+                            Reps = 12,
+                            Weight = 95
+                        },
+                        new Set
+                        {
+                            SetNumber = 3,
+                            Reps = 12,
+                            Weight = 95
+                        },
+                        new Set
+                        {
+                            SetNumber = 4,
+                            Reps = 12,
+                            Weight = 95
+                        },
+                        new Set
+                        {
+                            SetNumber = 5,
+                            Reps = 12,
+                            Weight = 95
+                        },
+                    }
+                },
