@@ -1,2 +1,2 @@
 # FitCore
-A workout management app
+A workout management app written in ASP.NET Core
